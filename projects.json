@@ -1,5 +1,4 @@
-{
-    "portfolio": [
+[
         {
             "cover": "https://raw.githubusercontent.com/mrmango1/projects/master/coverProjects/website.png?token=GHSAT0AAAAAABWOE42LROACVR3GLJIQTNJWYW2EKEQ",
             "title": "My Website",
@@ -43,4 +42,3 @@
             "url": "https://github.com/mrmango1/django-to_do_list"
         }
     ]
-}
