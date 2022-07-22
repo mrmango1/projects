@@ -1,37 +1,43 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
+            "cover": "https://raw.githubusercontent.com/mrmango1/projects/master/coverProjects/website.png?token=GHSAT0AAAAAABWOE42LROACVR3GLJIQTNJWYW2EKEQ",
             "title": "My Website",
-            "description": "Java, Swing, Mysql, MVC, DAO",
+            "description": "My Website made with Nextjs, React, ChakraUI, FramerMotion with SSR",
             "url": "https://github.com/mrmango1/MiniMarket"
         },
         {
-            "cover": "/portfolio/1/one.png",
+            "cover": "https://raw.githubusercontent.com/mrmango1/projects/master/coverProjects/calculator.png?token=GHSAT0AAAAAABWOE42KUXX5YXFFVJPK4NI6YW2ELRA",
+            "title": "Calculator",
+            "description": "Calculator made with Vite and React",
+            "url": "https://calculator.andersongrefa.tech"
+        },
+        {
+            "cover": "https://raw.githubusercontent.com/mrmango1/projects/master/coverProjects/minimarket.png?token=GHSAT0AAAAAABWOE42KIKEWU6XKZD7IVJ74YW2EOQA",
             "title": "Minimarket Manager",
             "description": "Java, Swing, Mysql, MVC, DAO",
             "url": "https://github.com/mrmango1/MiniMarket"
         },
         {
-            "cover": "/portfolio/3/chatApp.png",
+            "cover": "https://raw.githubusercontent.com/mrmango1/projects/master/coverProjects/chatApp.png?token=GHSAT0AAAAAABWOE42KWYWIBO34WE3ZGDJYYW2EO4A",
             "title": "Chat App",
             "description": "Django, Python, Html, Css",
             "url": "https://github.com/mrmango1/django_chat"
         },
         {
-            "cover": "/portfolio/2/notesApp.png",
+            "cover": "https://raw.githubusercontent.com/mrmango1/projects/master/coverProjects/notesApp.png?token=GHSAT0AAAAAABWOE42L5KRB72E2NQQCTGEAYW2EPKA",
             "title": "Notes App",
             "description": "Django, Python, Html, Css, Sqlite",
             "url": "https://github.com/mrmango1/django-to_do_list"
         },
         {
-            "cover": "/portfolio/4/pwdGen.png",
+            "cover": "https://raw.githubusercontent.com/mrmango1/projects/master/coverProjects/pwdGen.png?token=GHSAT0AAAAAABWOE42K2C4O2MNEQJP2HQIOYW2EP7Q",
             "title": "Password Generator",
             "description": "Css, Html, Django, Python",
             "url": "https://github.com/mrmango1/django_password_generator"
         },
         {
-            "cover": "/portfolio/5/todoApp.png",
+            "cover": "https://raw.githubusercontent.com/mrmango1/projects/master/coverProjects/todoApp.png?token=GHSAT0AAAAAABWOE42KJ72WB2MYU2IKRE7AYW2EQLA",
             "title": "To-do App",
             "description":  "Css, Html, Django, Python, Sqlite",
             "url": "https://github.com/mrmango1/django-to_do_list"
